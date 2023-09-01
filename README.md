@@ -48,7 +48,7 @@ I love the entire process of developing creative websites. I love the challenge 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Typescript]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Typescript]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
@@ -66,5 +66,5 @@ I love the entire process of developing creative websites. I love the challenge 
 [Sass-url]: https://sass-lang.com/
 [Figma]: https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white
 [Figma-url]: https://www.figma.com/
-[Redux]: https://img.shields.io/badge/Redux-toolkit-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white
-[Redux-url]: https://redux-toolkit.js.org/
+[ReduxToolkit]: https://img.shields.io/badge/Redux-toolkit-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white
+[ReduxToolkit-url]: https://redux-toolkit.js.org/
