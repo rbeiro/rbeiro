@@ -16,8 +16,6 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🌱 I'm currently learning
 
 - React Native
-- Next.js 13 app directory
-- How to design good layouts
 
 ## 💼 Technology I use often
 
