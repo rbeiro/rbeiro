@@ -8,12 +8,6 @@ I'm a Front-end Web Developer 💻
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/gabriel-ribeiro-843b45181//"><img align="left" src="https://raw.githubusercontent.com/rbeiro/rbeiro/main/images/linkedin.svg" alt="Gabriel Ribeiro | LinkedIn" width="21px"/></a>
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
 ## 🔭 I'm currently working on
 
 - My portfolio website
